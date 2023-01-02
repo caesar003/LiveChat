@@ -1,5 +1,5 @@
-import Register from "./app/screens/Register";
+import Messages from "./app/screens/Messages";
 
 export default function App() {
-    return <Register />;
+    return <Messages />;
 }
