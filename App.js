@@ -1,5 +1,5 @@
-import Login from "./app/screens/Login";
+import Register from "./app/screens/Register";
 
 export default function App() {
-    return <Login />;
+    return <Register />;
 }
