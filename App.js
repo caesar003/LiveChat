@@ -1,5 +1,5 @@
-import Messages from "./app/screens/Messages";
+import Conversation from "./app/screens/Conversation";
 
 export default function App() {
-    return <Messages />;
+    return <Conversation />;
 }
